@@ -11,11 +11,7 @@ I am also a student of the Computer Science course at UNIFEOB, a college located
 * ✉️  You can contact me at [joaootaviorm@gmail.com]
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
-<a href="https://www.github.com/joaootaviorm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
-### Skills
-
+<a href="https://www.github.com/joaootaviorm" target="_blank" rel="noreferrer">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
